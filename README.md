@@ -1,9 +1,9 @@
 📚 🔬 Data Science Handouts
 By Khushi Singh  
-Quick Revision • Machine Learning • Python • Stats • Projects
+Quick Revision • Machine Learning • Python • Biopython • Projects
 
 
-This repository contains hand-crafted Data Science handouts created by **Khushi Singh**. These notes summarize essential concepts, techniques, and workflows across various domains of Data Science.
+This repository contains hand-crafted Data Science handouts. These notes summarize essential concepts, techniques, and workflows across various domains of Data Science.
 
 ##📌 Topics Covered:
 - Python for Data Science
@@ -17,7 +17,6 @@ This repository contains hand-crafted Data Science handouts created by **Khushi 
 ###🎯 Purpose:
 To provide self-learners, students, and professionals with clean, easy-to-understand handouts for:
 - Quick revision
-- Interview preparation
 - Supplementing classroom learning
 
 ## 🙋‍♀️ Created By:
@@ -25,4 +24,3 @@ To provide self-learners, students, and professionals with clean, easy-to-unders
 
 ---
 
-Feel free to edit or translate this into Hindi or add links to specific PDFs if needed! Want a logo or banner too?
